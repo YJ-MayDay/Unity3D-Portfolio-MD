@@ -1,0 +1,5 @@
+Name,Image,ClipName,NeedMana,CoolTime,CurrentCoolTime,ReadySkill,IsActivate,ParticleName
+Bash,SkillImage/SIW1,Skill1,5,3,0,TRUE,TRUE,null
+ArmorBreak,SkillImage/SIW2,Skill2,7,5,0,TRUE,FALSE,null
+AttackUP,SkillImage/SIW3,Buff,10,10,0,TRUE,FALSE,L_Rose_fire
+Berserker,SkillImage/SIW4,Buff,20,10,0,TRUE,FALSE,L_Devil_await
